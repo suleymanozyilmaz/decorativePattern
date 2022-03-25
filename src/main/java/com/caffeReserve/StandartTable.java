@@ -1,3 +1,5 @@
+package com.caffeReserve;
+
 public class StandartTable extends ReserveTable {
     public double standartTablePrice = 100;
     @Override

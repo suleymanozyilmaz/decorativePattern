@@ -1,3 +1,5 @@
+package com.caffeReserve;
+
 public abstract class TableDecorator extends ReserveTable {
 
     ReserveTable table;

@@ -1,3 +1,5 @@
+package com.caffeReserve;
+
 public class VipTable extends ReserveTable {
 
     public double vipTablePrice = 250;

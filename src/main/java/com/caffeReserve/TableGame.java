@@ -1,3 +1,5 @@
+package com.caffeReserve;
+
 public class TableGame extends TableDecorator{
     public TableGame(ReserveTable table) {
         super(table);

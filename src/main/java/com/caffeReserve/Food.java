@@ -1,3 +1,5 @@
+package com.caffeReserve;
+
 public class Food extends TableDecorator{
     public Food(ReserveTable table) {
         super(table);

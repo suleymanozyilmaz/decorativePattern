@@ -1,4 +1,6 @@
-public class Drink extends TableDecorator{
+package com.caffeReserve;
+
+public class Drink extends TableDecorator {
     public Drink(ReserveTable table) {
         super(table);
     }
